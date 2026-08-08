@@ -17,17 +17,16 @@ Right now, I am actively bridging the gap between data manipulation and producti
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Languages & Data Science
-<img src="https://jsdelivr.net" height="40" alt="Python" /> &nbsp;
-<img src="https://githubusercontent.com" height="40" alt="SQL" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="Pandas" />
+[![Python](https://shields.io)](https://python.org)
+[![SQL](https://shields.io)](https://postgresql.org)
+[![Pandas](https://shields.io)](https://pydata.org)
 
 #### 🤖 Currently Learning (AI & LLMs)
-<img src="https://shields.io" height="40" alt="Hugging Face" /> &nbsp;
-<img src="https://shields.io🦜🔗%20LangChain-1C3C3A?style=for-the-badge&logoColor=white" height="40" alt="LangChain" />
-
-
+[![Hugging Face](https://shields.io)](https://huggingface.co)
+[![LangChain](https://shields.io)](https://langchain.com)
 
 ---
+
 
 ### 🤝 Let's Connect!
 * **LinkedIn:** www.linkedin.com/in/tarun-mahawar-952249414
