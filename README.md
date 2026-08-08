@@ -16,14 +16,11 @@ Right now, I am actively bridging the gap between data manipulation and producti
 
 ### 🛠️ Tech Stack & Tools
 
-#### 💻 Languages & Data Science
-[![Python](https://shields.io)](https://python.org)
-[![SQL](https://shields.io)](https://postgresql.org)
-[![Pandas](https://shields.io)](https://pydata.org)
-
-#### 🤖 Currently Learning (AI & LLMs)
-[![Hugging Face](https://shields.io)](https://huggingface.co)
-[![LangChain](https://shields.io)](https://langchain.com)
+| Category | Technologies & Concepts |
+| :--- | :--- |
+| **Core Languages** | `Python` &nbsp;•&nbsp; `SQL` |
+| **Data Engineering** | `Pandas` &nbsp;•&nbsp; `NumPy` &nbsp;•&nbsp; `Data Pipelines` |
+| **AI Specialization** | `LLMs` &nbsp;•&nbsp; `LLMOps` &nbsp;•&nbsp; `Vector DBs` &nbsp;•&nbsp; `RAG` |
 
 ---
 
