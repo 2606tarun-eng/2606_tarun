@@ -16,12 +16,15 @@ Right now, I am actively bridging the gap between data manipulation and producti
 
 ### 🛠️ Tech Stack & Tools
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, SQL |
-| **Data Libraries** | Pandas, NumPy |
-| **Databases** | PostgreSQL, MySQL |
-| **Currently Exploring** | LangChain, LlamaIndex, Hugging Face, Vector DBs |
+#### 💻 Languages & Data Science
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![Pandas](https://shields.io)
+
+#### 🤖 Currently Learning (AI & LLMs)
+![Hugging Face](https://shields.io)
+![LangChain](https://shields.io🦜🔗%20LangChain-black?style=for-the-badge)
+
 
 
 ---
