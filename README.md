@@ -1,8 +1,5 @@
 # Hi there, I'm Tarun Mahawar 👋
 
-
-# Hi there, I'm Tarun 👋
-
 <p align="left">
   <a href="https://github.com">
     <img src="https://demolab.com..." alt="Typing SVG" />
