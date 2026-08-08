@@ -1,11 +1,6 @@
 # Hi there, I'm Tarun Mahawar 👋
 
-### 🚀 Aspiring AI Engineer & Lifelong Learner
-I am a data professional currently leveraging **Python, SQL, and Pandas** to extract insights and build data workflows. My immediate career goal is to transition into AI Engineering, with a heavy focus on mastering **LLMs (Large Language Models) and LLMOps**. 
 
-Right now, I am actively bridging the gap between data manipulation and production-grade AI systems.
-
----
 # Hi there, I'm Tarun 👋
 
 <p align="left">
