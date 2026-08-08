@@ -17,13 +17,13 @@ Right now, I am actively bridging the gap between data manipulation and producti
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Languages & Data Science
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![Pandas](https://shields.io)
+<img src="https://jsdelivr.net" height="40" alt="Python" /> &nbsp;
+<img src="https://githubusercontent.com" height="40" alt="SQL" /> &nbsp;
+<img src="https://jsdelivr.net" height="40" alt="Pandas" />
 
 #### 🤖 Currently Learning (AI & LLMs)
-![Hugging Face](https://shields.io)
-![LangChain](https://shields.io🦜🔗%20LangChain-black?style=for-the-badge)
+<img src="https://shields.io" height="40" alt="Hugging Face" /> &nbsp;
+<img src="https://shields.io🦜🔗%20LangChain-1C3C3A?style=for-the-badge&logoColor=white" height="40" alt="LangChain" />
 
 
 
